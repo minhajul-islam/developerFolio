@@ -15,6 +15,7 @@ import Podcast from "./podcast/Podcast";
 import Top from "./topbutton/Top";
 import Twitter from "./twitter-embed/twitter";
 import Profile from "./profile/Profile";
+import Login from "./login/Login";
 
 export default class Main extends Component {
   render() {
@@ -27,7 +28,7 @@ export default class Main extends Component {
         <WorkExperience />
         <Projects />
         <StartupProject />
-        <Achievement />
+        {/*<Achievement />*/}
         <Blogs />
         {/*<Talks />*/}
         {/*<Twitter />*/}

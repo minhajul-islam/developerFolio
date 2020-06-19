@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Minhajul Islam",
   title: "Hi all, I'm minhaj",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
+  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Mobile applications with React Native / Flutter / Native android and some other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1iE7V9DLl3y3gSF6CK1hJghyTSWFQndWL/view?usp=sharing"
 };
 
@@ -40,18 +40,7 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
+
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -73,24 +62,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Android",
+      fontAwesomeClassname: "fab fa-android"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Flutter",
+      fontAwesomeClassname: "fab fa-dart"
     }
   ]
 };
@@ -101,11 +82,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
+      Stack: "React Native",  //Insert stack or technology you have experience in
       progressPercentage: "90%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Flutter",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Android",
       progressPercentage: "70%"
     },
     {
@@ -123,9 +108,9 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",  
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      company: "TechHive",
+      companylogo: require("./assets/images/eduhive.png"),
+      date: "March 2020 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -133,17 +118,17 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",   
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      role: "Software Engineer",
+      company: "TopUp",
+      companylogo: require("./assets/images/topup.jpg"),
+      date: "February 2019 – February 2020",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Software Engineer Intern",  
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.jpg"),
-      date: "Jan 2015 – Sep 2015",
+      role: "Software Engineer",
+      company: "DakterBari",
+      companylogo: require("./assets/images/dakterbari.png"),
+      date: "October 2017 – January 2019",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
   ]
@@ -155,7 +140,7 @@ To know how to get github key look at readme.md */
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "minhajul-islam", // Change to your github username to view your profile in Contact Section.
-  showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false 
+  showGithubProfile :"false" // Set true or false to show Contact profile using Github, defaults to false
 };
 
 
@@ -166,13 +151,23 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
-      link: "http://saayahealth.com/"
+      image: "https://scontent.fdac25-1.fna.fbcdn.net/v/t1.15752-9/102832574_951804175278998_5151259304822665302_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_eui2=AeHqUrb0OSshVqJimmOL_wvxP49jF7-whOM_j2MXv7CE42Xn_OT57hbqCpDrtUxff1qq4i9edpUdY8Mo2J_8MFUq&_nc_ohc=YglbEZVzLcEAX9cfRUK&_nc_ht=scontent.fdac25-1.fna&oh=10c5b4da57be212135842998cd84cb8f&oe=5F090C66",
+      link: "https://play.google.com/store/apps/details?id=com.mlipa.kwikpay&hl=ky"
     },
     {
-      image: "https://drive.google.com/uc?id=1MXoXcQRK-pH8J82wyjCW4SJk5AxJe7tf",
-      link: "http://nextu.se/"
-    }
+      image: "https://1.bp.blogspot.com/-otVqybk47-E/XhSZP711VcI/AAAAAAAACVE/Xuc0jHYLny8xnV0F_pOo03wSxGYRE-HegCLcBGAsYHQ/s640/eduhive%2Bscholarship.png",
+      link: "https://eduhive.com.bd/"
+    },
+    {
+      image: "https://topup.co/wp-content/uploads/2019/03/TopUp-Logo.jpg",
+      link: "https://topup.co/"
+    },
+
+    {
+      image: "https://scontent.fdac25-1.fna.fbcdn.net/v/t1.15752-9/102740333_298230294691876_3427222830724499774_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_eui2=AeH9EjT1LOALrRiAG8faqG5qGnoMKrenFAQaegwqt6cUBMICWB7IeYkvQSfyVaSUewGKb_jjO1XeY5DV5w9ObDdo&_nc_ohc=5YXQM3D-wIQAX888x4p&_nc_ht=scontent.fdac25-1.fna&oh=92e2bdf2613bd9a6784a125f45739350&oe=5F0A51F2",
+      link: "https://play.google.com/store/apps/details?id=com.equityapp"
+    },
+
   ]
 };
 
@@ -205,7 +200,7 @@ const achievementSection = {
     {
       title: "PWA Web App Developer",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
+      image: "https://scontent.fdac25-1.fna.fbcdn.net/v/t1.15752-9/104298374_3072205949535801_3127220028333452807_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_eui2=AeGNqYiUg-msz487eeq7Txz0WlTE6QEM-WlaVMTpAQz5aVzY2Ytk6_gAlFPaMpVaUyvto3M4dzf5wRPY7sX3089u&_nc_ohc=AJ",
       footerLink: [
         { name: "Certification", url: "" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
