@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.af87bd13.chunk.css",
-    "main.js": "/static/js/main.b03a8c70.chunk.js",
-    "main.js.map": "/static/js/main.b03a8c70.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b79f7dce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b79f7dce.js.map",
-    "static/js/2.78ef4cad.chunk.js": "/static/js/2.78ef4cad.chunk.js",
-    "static/js/2.78ef4cad.chunk.js.map": "/static/js/2.78ef4cad.chunk.js.map",
+    "main.css": "/static/css/main.250ee9ec.chunk.css",
+    "main.js": "/static/js/main.2659e9e5.chunk.js",
+    "main.js.map": "/static/js/main.2659e9e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc8da5ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc8da5ec.js.map",
+    "static/js/2.0db9260f.chunk.js": "/static/js/2.0db9260f.chunk.js",
+    "static/js/2.0db9260f.chunk.js.map": "/static/js/2.0db9260f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d06af8f4a777e8fca1b9c2a06b65db10.js": "/precache-manifest.d06af8f4a777e8fca1b9c2a06b65db10.js",
+    "precache-manifest.38674b0e15a4861108f1c37f8a2c1bac.js": "/precache-manifest.38674b0e15a4861108f1c37f8a2c1bac.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.af87bd13.chunk.css.map": "/static/css/main.af87bd13.chunk.css.map",
+    "static/css/main.250ee9ec.chunk.css.map": "/static/css/main.250ee9ec.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/airbnbLogo.jpg": "/static/media/airbnbLogo.e47c3e26.jpg",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/eduhive.png": "/static/media/eduhive.3c769c9a.png",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b79f7dce.js",
-    "static/js/2.78ef4cad.chunk.js",
-    "static/css/main.af87bd13.chunk.css",
-    "static/js/main.b03a8c70.chunk.js"
+    "static/js/runtime-main.dc8da5ec.js",
+    "static/js/2.0db9260f.chunk.js",
+    "static/css/main.250ee9ec.chunk.css",
+    "static/js/main.2659e9e5.chunk.js"
   ]
 }

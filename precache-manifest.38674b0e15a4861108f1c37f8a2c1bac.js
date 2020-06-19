@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "761a3bf4fdb30b333ffa532764738261",
+    "revision": "b3b854ea39801f37c8e978467c66ead6",
     "url": "/index.html"
   },
   {
-    "revision": "2635f0eca9ccd2bd28c0",
-    "url": "/static/css/main.347f2700.chunk.css"
+    "revision": "025e62b30c8192bcea8a",
+    "url": "/static/css/main.250ee9ec.chunk.css"
   },
   {
-    "revision": "f0986ed03c35688baa35",
-    "url": "/static/js/2.6b37cec6.chunk.js"
+    "revision": "b5c896c11297be412749",
+    "url": "/static/js/2.0db9260f.chunk.js"
   },
   {
-    "revision": "2635f0eca9ccd2bd28c0",
-    "url": "/static/js/main.f7a1d870.chunk.js"
+    "revision": "025e62b30c8192bcea8a",
+    "url": "/static/js/main.2659e9e5.chunk.js"
   },
   {
-    "revision": "9e0dbbbecde63d8dbba4",
-    "url": "/static/js/runtime-main.b79f7dce.js"
+    "revision": "c89d3faf17ecc6913dc3",
+    "url": "/static/js/runtime-main.dc8da5ec.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "e47c3e26372c670c4a4eeac6eea0bf98",
-    "url": "/static/media/airbnbLogo.e47c3e26.jpg"
-  },
-  {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "/static/media/contactMail.d6d4086f.png"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "3c769c9ab9276fd0cf87af8d30da83dc",
+    "url": "/static/media/eduhive.3c769c9a.png"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
