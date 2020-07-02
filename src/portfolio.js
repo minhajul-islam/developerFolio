@@ -160,7 +160,7 @@ const bigProjects = {
             link: "https://eduhive.com.bd/"
         },
         {
-            image: "https://scontent.fdac25-1.fna.fbcdn.net/v/t1.15752-9/107374372_595210111131388_8688040196276734378_n.png?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=aK-KcAiwX88AX8fFs_x&_nc_ht=scontent.fdac25-1.fna&oh=1b9e520a6450d2ba414a215d41eb30b2&oe=5F2428FD",
+            image: "https://topup.co/wp-content/uploads/2019/03/TopUp-Logo.jpg",
             link: "https://topup.co/"
         },
 
