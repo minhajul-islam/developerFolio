@@ -2,6 +2,7 @@ import React from "react";
 import "./Header.css";
 import {Fade} from "react-reveal";
 import {greeting, workExperiences} from "../../portfolio";
+import closeIcon from "../../service/chat/icons/closeIcon.png";
 
 function Header() {
   const exp = workExperiences.viewExperiences;
@@ -39,6 +40,9 @@ function Header() {
           {/*<li>*/}
           {/*  <a href="#blogs">Blogs</a>*/}
           {/*</li>*/}
+          <li>
+            <a href="/join">Chat</a>
+          </li>
           <li>
             <a href="#contact">Contact Me</a>
           </li>
