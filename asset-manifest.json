@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/developerFolio/static/css/main.b43c46bf.chunk.css",
-    "main.js": "/developerFolio/static/js/main.171fd64c.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.171fd64c.chunk.js.map",
+    "main.css": "/developerFolio/static/css/main.3205f624.chunk.css",
+    "main.js": "/developerFolio/static/js/main.8a84bcef.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.8a84bcef.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.2f8d2419.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.2f8d2419.js.map",
-    "static/js/2.1b17ad46.chunk.js": "/developerFolio/static/js/2.1b17ad46.chunk.js",
-    "static/js/2.1b17ad46.chunk.js.map": "/developerFolio/static/js/2.1b17ad46.chunk.js.map",
+    "static/js/2.7c37d9da.chunk.js": "/developerFolio/static/js/2.7c37d9da.chunk.js",
+    "static/js/2.7c37d9da.chunk.js.map": "/developerFolio/static/js/2.7c37d9da.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.6d9ace2ef3feca5cf68fbb50ab1c0b52.js": "/developerFolio/precache-manifest.6d9ace2ef3feca5cf68fbb50ab1c0b52.js",
+    "precache-manifest.ff1383bc5959539843a245dfc43bea8a.js": "/developerFolio/precache-manifest.ff1383bc5959539843a245dfc43bea8a.js",
     "service-worker.js": "/developerFolio/service-worker.js",
-    "static/css/main.b43c46bf.chunk.css.map": "/developerFolio/static/css/main.b43c46bf.chunk.css.map",
+    "static/css/main.3205f624.chunk.css.map": "/developerFolio/static/css/main.3205f624.chunk.css.map",
     "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/contactMail.png": "/developerFolio/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
     "static/media/eduhive.png": "/developerFolio/static/media/eduhive.3c769c9a.png",
+    "static/media/logo.svg": "/developerFolio/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
     "static/media/TalkCard.css": "/developerFolio/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2f8d2419.js",
-    "static/js/2.1b17ad46.chunk.js",
-    "static/css/main.b43c46bf.chunk.css",
-    "static/js/main.171fd64c.chunk.js"
+    "static/js/2.7c37d9da.chunk.js",
+    "static/css/main.3205f624.chunk.css",
+    "static/js/main.8a84bcef.chunk.js"
   ]
 }
